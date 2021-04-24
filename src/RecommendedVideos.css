@@ -1,0 +1,35 @@
+.recommendedvideos{
+    flex: 0.8;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+.recommendedvideos > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.recommendedvideos__videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxed {
+    border: 1px solid #C0C0C0 ;
+    width:100px ;
+    text-align: center;
+    border-radius: 25px;
+    padding: 2px;
+    background-color: #E8E8E8;
+    vertical-align:top;
+    display: inline-block;
+  }
+  .all{
+    border: 1px solid #C0C0C0 ;
+    width:45px ;
+    text-align: center;
+    border-radius: 25px;
+    padding: 2px;
+    background-color: #606060;
+    vertical-align:top;
+    display: inline-block;
+    color: white;
+}
